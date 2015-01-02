@@ -17,5 +17,6 @@
 }
 
 // put new methods here
-
+-(type I return)nameOfMethod: (type of first parameter) firstParameter continuationOfMethodName: (type of second parameter) secondParameter
+[character flap];
 @end
